@@ -5,7 +5,7 @@ extruded from their real footprints, roads, the Sabarmati riverfront, Law
 Garden's pond, and parks — rendered with [Three.js](https://threejs.org/),
 with a day/night toggle and glowing window lights at night.
 
-**Live demo:** _add your GitHub Pages URL here after deploying_
+**Live demo: https://jayprajapati009.github.io/ahmedabad-map/**
 
 No build step, no backend — it's a static page that fetches a pre-processed
 JSON file and renders it with WebGL.
